@@ -6,7 +6,7 @@ ll int sizes=0;
 
 ll int b[11];
 ll int c[11];
-
+// this is a sexy code
 void multiply(ll int f[10][10],ll int m[10][10])
 {
     ll int l[10][10]={0};
